@@ -32,7 +32,7 @@ Run Flutter pub get para obter dependências
 
 --------------------------------------
 
-Clone repo: 
+Clone repo: https://github.com/SelimSayeh/ConnectP.git
 
 
 
