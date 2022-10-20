@@ -29,7 +29,7 @@ Dependencies :
  
 --------------------------------------
 Run Flutter pub get para obter dependências
-
+altere seu endereço IP em ApiConstants.dart
 --------------------------------------
 
 Clone repo: https://github.com/SelimSayeh/ConnectP.git
